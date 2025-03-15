@@ -18,7 +18,7 @@ public class Animal {
         return size;
     }
 
-    public void sound(){
+    public void sound() {
         System.out.println("동물 울음 소리");
     }
 
